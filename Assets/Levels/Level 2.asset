@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d04821ecf7478314fab53c832de4d427, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  TargetLocation: {x: 6.56, y: -0.68, z: 2.17}
+  Message:
+    Title: Level 2
+    Description: Viktor wilt niet meer gevonden worden! Als je richting hem kijk,
+      gaat hij zich verstoppen.
+  HiddenClip: {fileID: 32900000, guid: 62f026cb535f1844a942e70dde95360d, type: 3}
+  PeakingClip: {fileID: 32900000, guid: 88634a0a9281a6647aa54d25312baebb, type: 3}
+  StaticBackground: {fileID: 2800000, guid: e6b776b84c1e59147aa1a855ec6c263f, type: 3}
+  RotationToTarget: 71

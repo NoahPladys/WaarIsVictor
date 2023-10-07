@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8690f3d11e5d9439ceb009f9968fd9, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  TargetLocation: {x: -3.234, y: 0.221, z: -0.152}
+  Message:
+    Title: Welkom bij Waar Is Viktor
+    Description: Dit is de persoon die je doorheen dit spel gaat moeten zoeken. Wijs
+      voor twee seconden naar Viktor om verder te gaan
+  SurroundingTexture: {fileID: 2800000, guid: 47027a86d2f302e479f5b395cdbd4b4d, type: 3}
